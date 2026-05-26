@@ -1,0 +1,13 @@
+.info-curso h2{
+    font-size: 50px;
+    align-items: center;
+    margin: 15px auto;
+    color: tomato;
+}
+
+.info-curso p{
+    color: darkkhaki;
+    font-size: 20px;
+    align-items: center;
+
+}
