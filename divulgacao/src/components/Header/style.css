@@ -1,0 +1,30 @@
+.cabecalho-site {
+    background-color: #1a1a1a;
+    border-bottom: 2px solid #ff4d6d;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+.cabecalho-site h1 {
+    margin: 0;
+    font-size: 1.8rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.cabecalho-site p {
+    margin: 6px 0 0;
+    color: #a9a9b3;
+    font-size: 0.95rem;
+}
+
+.selo-coracao {
+    background-color: #ff4d6d;
+    color: #fff;
+    padding: 2px 8px;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: bold;
+    margin-left: 5px;
+}

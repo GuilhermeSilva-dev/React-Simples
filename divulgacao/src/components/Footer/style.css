@@ -1,0 +1,29 @@
+.rodape-site{
+    background-color: #111116;
+    color: #ffffff;
+    padding: 25px 20px;
+    text-align: center;
+    margin-top: 50px;
+    border-top: 1px solid #2d2d37;
+}
+
+.rodape-site p {
+    margin: 5px 0;
+    color: #e1e1e6;
+    font-size: 0.95rem;
+}
+
+.texto-homenagem {
+    margin-top: 8px;
+    font-size: 0.9rem;  
+    color: #ff4d6d;
+    font-weight: 500;
+}
+
+.direitos-autorais {    
+    font-size: 0.75rem;    
+    color: #7c7c8a;
+    margin-top: 15px;
+}
+    
+    
